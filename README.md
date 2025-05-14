@@ -18,6 +18,7 @@ Wrapp is a clean, modern, and fully responsive landing page UI built using **Rea
 ![Wrapp UI Preview](./src/assets/hero-new.jpg)  
 *Full mockup image in `src/assets` folder*
 
+
 ---
 
 ## 🧰 Tech Stack
@@ -34,5 +35,5 @@ Wrapp is a clean, modern, and fully responsive landing page UI built using **Rea
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/wrapp-ui.git
-cd wrapp-ui
+git clone https://github.com/MustafaRaheel26/interview-landing-1.git
+cd interview-landing-1
